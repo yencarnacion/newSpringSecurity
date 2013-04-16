@@ -1,0 +1,1 @@
+Skeleton project using Spring Security
